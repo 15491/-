@@ -1,0 +1,16 @@
+{
+  "name": "@mc-ui/play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mc-ui/components": "^1.0.0",
+    "@vitejs/plugin-vue": "^5.1.2"
+  }
+}
